@@ -3,7 +3,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+👋;Welcome+to+my+GitHub!+🖤;%3C+%2F+%3E" alt="Typing SVG" />
 </div>
 
+---
+
+## 🔗 Connect with me
+
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-oliveira)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maria-oliveira)
 
