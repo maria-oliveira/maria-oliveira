@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+👋;Welcome+to+my+GitHub!+🖤;%3C+%2F+%3E" alt="Typing SVG" />
+  <img src="https://readmetypingsvg.demolab.comfont=Fira+Code&size=32&duration=3000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=600&height=100&lines=Hello+World!+👋;Welcome+to+my+GitHub!+🖤;%3C+%2F+%3E" alt="Typing SVG" />
 </div>
 
 ---
