@@ -44,17 +44,6 @@ Hello! I'm **Maria Eduarda**, an undergraduate student in **Database Management*
 ## 📊 Statistics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maria-oliveira&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maria-oliveira&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-oliveira&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false&border_color=333333" width="100%"/>
 </div>
 
