@@ -2,16 +2,25 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;Welcome+to+my+GitHub!;%3C+%2F+%3E" alt="Typing SVG" />
 </div>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-miller-597666355/)
+[![Lattes](https://img.shields.io/badge/Lattes-000000?style=for-the-badge&logo=academia&logoColor=white)](https://lattes.cnpq.br/1052189159912737)
+
+</div>
+
 ---
 
 ## 👩‍💻 About me
 
-Hello! I'm **Maria Eduarda**, an undergraduate student in **Database Management**. I enjoy learning new technologies and working on projects that combine back-end development with data engineering.
+Hi! I'm **Maria Eduarda**, undergraduate student in **Database Technology** at FATEC São José dos Campos — Prof. Jessen Vidal. My focus is on **data analysis, data modeling and database management**, with hands-on experience in academic projects applying agile methodologies.
 
-- 🎓 Undergraduate student in **Database Management**
-- ☕ Working with **Java** and **Spring Boot**
-- 🐍 Practicing **Python** and data structures
-- ☁️ Exploring **AWS** cloud services
+- 🎓 Undergrad in **Database Technology** — FATEC SJC
+- 🗄️ Data modeling, SQL and database development
+- 📊 Data analysis with **Power BI**
+- ☕ Systems development with **Java**
+- 🔀 Version control with **Git / GitHub**
 
 ---
 
@@ -33,7 +42,6 @@ Hello! I'm **Maria Eduarda**, an undergraduate student in **Database Management*
 ---
 
 ## 📊 Statistics
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=maria-oliveira&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false&border_color=333333" width="100%"/>
 </div>
