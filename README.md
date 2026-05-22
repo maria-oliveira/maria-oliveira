@@ -1,8 +1,7 @@
-<!-- Header banner --> 
+<!-- Header banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;Welcome+to+my+GitHub!;%3C+%2F+%3E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;Welcome+to+my+GitHub!;%3C+%2F+%3E" alt="Typing SVG" />
 </div>
-
 ---
 
 ## 👩‍💻 About me
